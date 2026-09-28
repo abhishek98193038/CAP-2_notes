@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"6fe11cfb32c6a7b9","type":"text","text":"Definition of person","x":-280,"y":-140,"width":250,"height":60},
+		{"id":"ad5e76b2d89ce8a6","type":"text","text":"Natural person / Individual\n- Individual (manxe)\n- Sole proprietorship\n- Couple u/s 50 (optional)\n\t- Resident widow/widower taking care of dependent\n\t- Resident Natural person + Resident spouse","x":-580,"y":80,"width":380,"height":240},
+		{"id":"08846bc3f7637c8b","type":"text","text":"Entity","x":151,"y":81,"width":250,"height":60},
+		{"id":"f5f29f154f68caa4","type":"text","text":"Partnership","x":-160,"y":251,"width":250,"height":60},
+		{"id":"36ca250b5d471d3d","type":"text","text":"Trust","x":356,"y":251,"width":84,"height":60},
+		{"id":"80d0c4f5c35e5392","type":"text","text":"government (central, provincial, local)\nDistrict co-ordination committee","x":356,"y":451,"width":327,"height":77},
+		{"id":"ba68169dd918ab12","type":"text","text":"Company","x":356,"y":351,"width":120,"height":60},
+		{"id":"b34a200b971b2b18","type":"text","text":"Foreign government or its political subdivision","x":356,"y":568,"width":234,"height":60},
+		{"id":"de2821e983d855dc","type":"text","text":"Public international organization established by treaty ","x":356,"y":668,"width":244,"height":72},
+		{"id":"cd6afe713161f4e9","type":"text","text":"foreign Permanent establishment of Non resident","x":356,"y":768,"width":183,"height":88},
+		{"id":"e49ec139d51528b8","type":"text","text":"\"**Partnership**\" means a firm consisting of $\\textless$ 20 partners, whether registered under the law in force or not.","x":-163,"y":371,"width":283,"height":129},
+		{"id":"10d19199d5aecd33","type":"text","text":"Permanent establishment means: A place where\n1. any person carries on a business fully or partly, or through any agent ( except general agent)\n2. any person's main equipment or main machinery is situated or used or installed\n3. any person has delivered technical , professional or consultancy service through an employee or in any other manner for $\\textgreater$ 90 days in a period of 12 month\n4. where any person is involved in a construction, installation or establishment project and has carried out supervisory works of that project for a period of 90 days or more\nref: [[Income tax act 2002(2058)#^7xt4k4]]","x":680,"y":668,"width":440,"height":372},
+		{"id":"bbddf9ea8bd0a6c1","type":"text","text":"\"**Trust**\" means an arrangement whereby a [trustee](app://obsidian.md/Income%20tax%20act%202002\\(2058\\)#^rjyozx) holds any property","x":476,"y":221,"width":260,"height":120},
+		{"id":"6e092045ad334f87","type":"text","text":"\"**Trustee**\" means an individual, trust (Guthi) or other body corporate who, individually or jointly with other individual, trust (Guthi) or corporate body, holds a property in trust, and the term also includes the following person:\n\t(1) The operator or administrator of the assets of a deceased,\n\t(2) A liquidator, recipient or trustee,\n\t(3) Any person who protects, directs, controls or manages the assets of an incapacitated person in personal or official capacity,\n\t(4) Any person who manages the assets under a private enterprise or similar other enterprise, and\n\t(5) Any other person in a position similar to that of the person as referred to in clauses (1), (2), (3) and (4).\nref: [[Income tax act 2002(2058)#^rjyozx]]","x":904,"y":-59,"width":521,"height":341},
+		{"id":"4c0334736e50c73f","type":"text","text":"- company established under prevailing company laws\n- corporate body established under prevailing law (eg:ICAN)\n- unincorporated association / society\n- partnership with $\\geq$ 20 partners\n- Retirement fund\n- cooperative \n- unit trust\n- joint venture\nref: [[Income tax act 2002(2058)#^azrvnb]]","x":800,"y":301,"width":520,"height":269}
+	],
+	"edges":[
+		{"id":"29d0a5d620a5d5ba","fromNode":"6fe11cfb32c6a7b9","fromSide":"bottom","toNode":"ad5e76b2d89ce8a6","toSide":"top"},
+		{"id":"f5ee9a79dc4257e1","fromNode":"6fe11cfb32c6a7b9","fromSide":"bottom","toNode":"08846bc3f7637c8b","toSide":"top"},
+		{"id":"34cecba22d9ca030","fromNode":"08846bc3f7637c8b","fromSide":"bottom","toNode":"f5f29f154f68caa4","toSide":"top"},
+		{"id":"406e56f5673e205b","fromNode":"08846bc3f7637c8b","fromSide":"bottom","toNode":"36ca250b5d471d3d","toSide":"top"},
+		{"id":"e7dbbf78d839f333","fromNode":"08846bc3f7637c8b","fromSide":"bottom","toNode":"ba68169dd918ab12","toSide":"top"},
+		{"id":"335646d0ad62f09a","fromNode":"08846bc3f7637c8b","fromSide":"bottom","toNode":"80d0c4f5c35e5392","toSide":"top"},
+		{"id":"efccf206e20d356f","fromNode":"08846bc3f7637c8b","fromSide":"bottom","toNode":"b34a200b971b2b18","toSide":"top"},
+		{"id":"a7c073ca70011d29","fromNode":"08846bc3f7637c8b","fromSide":"bottom","toNode":"de2821e983d855dc","toSide":"top"},
+		{"id":"eda5bb26d7ca11da","fromNode":"08846bc3f7637c8b","fromSide":"bottom","toNode":"cd6afe713161f4e9","toSide":"top"},
+		{"id":"dd8b6a28740154a8","fromNode":"ba68169dd918ab12","fromSide":"right","toNode":"4c0334736e50c73f","toSide":"left"},
+		{"id":"571dac445769f998","fromNode":"f5f29f154f68caa4","fromSide":"bottom","toNode":"e49ec139d51528b8","toSide":"top"},
+		{"id":"2ae4707ca563d078","fromNode":"36ca250b5d471d3d","fromSide":"right","toNode":"bbddf9ea8bd0a6c1","toSide":"left"},
+		{"id":"2e08f412af91ffb7","fromNode":"cd6afe713161f4e9","fromSide":"right","toNode":"10d19199d5aecd33","toSide":"left"},
+		{"id":"c13af11673506479","fromNode":"bbddf9ea8bd0a6c1","fromSide":"right","toNode":"6e092045ad334f87","toSide":"left"}
+	]
+}
