@@ -14,23 +14,23 @@ Total No. of Questions - 8
 
 1. Heritage Fashion Pvt. Ltd. is a garment industry; which exports all its garments to USA. The company maintains its books of account in cash basis. The company records in a loose sheet of the transactions of sales and purchases before accounting in the books. The receipts and payments based on the accounting of the company during the Income Year 2072/73 are as follows:
 
-| Particulars | Payments (Rs.) | Receipts (Rs.) |
-| :-- | --: | --: |
-| Loan | $2,500,000$ | $4,200,000$ |
-| Raw material | $6,000,000$ |  |
-| Wages for labour | 500,000 |  |
-| Variable overhead for production | 250,000 |  |
-| Factory rent | $1,200,000$ |  |
-| Production supervisory salary | 250,000 |  |
-| Insurance for factory | 117,000 |  |
-| Administrative salary | 650,000 |  |
-| Office expenses | 400,000 |  |
-| Plant \& Machinery | $4,200,000$ |  |
-| Generator | 800,000 |  |
-| Sale of old computer |  | 10,000 |
-| Export |  | $12,000,000$ |
-| Advance Income tax | 200,000 |  |
-|  | $17,067,000$ | $16,210,000$ |
+| Particulars                      | Payments (Rs.) | Receipts (Rs.) |
+| :------------------------------- | -------------: | -------------: |
+| Loan                             |    $2,500,000$ |    $4,200,000$ |
+| Raw material                     |    $6,000,000$ |                |
+| Wages for labour                 |        500,000 |                |
+| Variable overhead for production |        250,000 |                |
+| Factory rent                     |    $1,200,000$ |                |
+| Production supervisory salary    |        250,000 |                |
+| Insurance for factory            |        117,000 |                |
+| Administrative salary            |        650,000 |                |
+| Office expenses                  |        400,000 |                |
+| Plant \& Machinery               |    $4,200,000$ |                |
+| Generator                        |        800,000 |                |
+| Sale of old computer             |                |         10,000 |
+| Export                           |                |   $12,000,000$ |
+| Advance Income tax               |        200,000 |                |
+|                                  |   $17,067,000$ |   $16,210,000$ |
 
 You are asked by the Company to assess the tax payable for the Income year based on the above transactions and following additional information:
 a) Closing balance of Income Year 2071/72 related to the above transactions were assessed as follows:

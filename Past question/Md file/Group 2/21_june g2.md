@@ -795,7 +795,7 @@ It refers to the amount of working capital over and above the fixed minimum amou
 
  All questions are compulsory. Working notes should form part of the answer. Make assumptions wherever necessary.
 
-### Question no 1 (Cost and Management Accounting)
+### Question no 1 (Cost and Management Accounting) ✓
 
 1. G Ltd. is manufacturer of office cabinets. During the FY 2076/77, it sold 12,000 units of cabinets at the price of Rs. 15,000 per unit. At the beginning of the year there were 1,500 units of finished goods in stock which was 800 units at the end of the year. Similarly there was work in progress of 400 units in the beginning of the year and 700 units at the end of the year. Opening WIP was 100\% complete in respect of materials and $40 \%$ complete in respect of labour and overhead. Closing WIP was $100 \%$ complete in respect of materials and $50 \%$ complete in respect of labour and overhead.
 
@@ -824,71 +824,71 @@ c) Statement showing element wise cost per unit assuming FIFO basis
 
 a)
 
-| Profitability Statement- Absorption Costing |                  |     |            |               |     |
-| :-----------------------------------------: | :--------------: | --- | ---------- | ------------- | --- |
-|                    Sales                    |  180,000,000.00  |     |            |               |     |
-|                    COGS                     |  131,858,172.16  |     |            |               |     |
-|             Opening Stock- WIP              |   3,076,564.95   |     |            |               |     |
-|              Opening Stock- FG              |  14,653,607.21   |     |            |               |     |
-|               Production Cost               |  129,458,000.00  |     |            |               |     |
-|              Closing Stock FG               | $(8,960,000.00)$ |     |            |               |     |
-|             Closing Stock- WIP              | $(6,370,000.00)$ |     |            |               |     |
-|                Gross Profit                 |  48,141,827.84   |     |            |               |     |
-|        Less: Selling and Admin Cost         |  18,700,000.00   |     |            |               |     |
-|           Selling Cost- Variable            |  18,000,000.00   |     |            |               |     |
-|             Selling Cost- Fixed             |                  |     | 700,000.00 |               |     |
-|                                             |                  |     |            |               |     |
-|                 Net Profit                  |                  |     |            | 29,441,827.84 |     |
+| Profitability Statement- Absorption Costing |                  |                |
+| :------------------------------------------ | :--------------: | -------------- |
+| Sales                                       |                  | 180,000,000.00 |
+| COGS                                        |                  | 131,858,172.16 |
+| Opening Stock- WIP                          |   3,076,564.95   |                |
+| Opening Stock- FG                           |  14,653,607.21   |                |
+| Production Cost                             |  129,458,000.00  |                |
+| Closing Stock FG                            | $(8,960,000.00)$ |                |
+| Closing Stock- WIP                          | $(6,370,000.00)$ |                |
+| Gross Profit                                |  48,141,827.84   |                |
+| Less: Selling and Admin Cost                |  18,700,000.00   |                |
+| Selling Cost- Variable                      |  18,000,000.00   |                |
+| Selling Cost- Fixed                         |    700,000.00    |                |
+|                                             |                  |                |
+| Net Profit                                  |                  | 29,441,827.84  |
 
 
 
 
 |  b) 
 
-| Profitability Statement- Marginal Costing |     |                |                  |
-| ----------------------------------------- | --- | -------------- | ---------------- |
-| Sales                                     |     |                | 180,000,000.00   |
-| COGS- Only Marginal Cost                  |     |                | (108,872,616.61) |
-| Opening Stock- WIP                        |     | 2,854,342.73   |                  |
-| Opening Stock- FG                         |     | 12,570,273.88  |                  |
-| Production Cost                           |     | 106,478,000.00 |                  |
-| Closing Stock FG                          |     | (7,360,000.00) |                  |
-| Closing Stock- WIP                        |     | (5,670,000.00) |                  |
-| Selling & Admin Cost- Variable            |     |                | (18,000,000.00)  |
-| Contribution                              |     |                | 53,127,383.39    |
-| Fixed Cost                                |     |                |                  |
-| Production Cost                           |     |                | (22,980,000.00)  |
-| Selling Cost                              |     |                | (700,000.00)     |
-| Net Profit                                |     |                | 29,447,383.39    |
+| Profitability Statement- Marginal Costing |                |                  |
+| ----------------------------------------- | -------------- | ---------------- |
+| Sales                                     |                | 180,000,000.00   |
+| COGS- Only Marginal Cost                  |                | (108,872,616.61) |
+| Opening Stock- WIP                        | 2,854,342.73   |                  |
+| Opening Stock- FG                         | 12,570,273.88  |                  |
+| Production Cost                           | 106,478,000.00 |                  |
+| Closing Stock FG                          | (7,360,000.00) |                  |
+| Closing Stock- WIP                        | (5,670,000.00) |                  |
+| Selling & Admin Cost- Variable            |                | (18,000,000.00)  |
+| Contribution                              |                | 53,127,383.39    |
+| Fixed Cost                                |                |                  |
+| Production Cost                           |                | (22,980,000.00)  |
+| Selling Cost                              |                | (700,000.00)     |
+| Net Profit                                |                | 29,447,383.39    |
 
 
 |  c)
 
-| | Equivalent | | | Total | |
-|---|---|---|---|---|---|
-| | Units | Material | Labour | VOH | Var |
-| | Completed | | | | Cost |
-| | Units | | | | |
-| 12000+800- | | | | | |
-| 1500 | | 11,300.00 | 11,300.00 | 11,300.00 | |
-| | Opening WIP | (400.00) | (160.00) | (160.00) | (160.00) |
-| | Closing WIP | 700.00 | 350.00 | 350.00 | 350.00 |
-| | Total | | | | |
-| | Equivalent | | | | |
-| | Units | 11,600.00 | 11,490.00 | 11,490.00 | 11,490.00 |
-| | Total Cost in | | | | |
-| | Rs. | 81,200,000.00 | 13,788,000.00 | 11,490,000.00 | 2,980,000.00 |
-| | Cost Per eqv | | | | |
-| | unit | 7,000.00 | 1,200.00 | 1,000.00 | 9,200.00 |
-| | Value of Opening | | | Total | |
-| | Stock | Material | Labour | VOH | Variable |
-| | Eqv Units | | 400.00 | 160.00 | Cost |
-| | | | | | 160.00 |
-| Cost per Eqv Units- Current Year price | 7,000.00 | 1,200.00 | 1,000.00 | 9,200.00 | 2,000.00 | 11,200.00 |
-|---|---|---|---|---|---|---|
-| At price of previous year | 6,306.31 | 1,121.50 | 952.38 | 8,380.18 | 1,388.89 | 9,769.07 |
-| Value of OS current price | 2,800,000.00 | 192,000.00 | 160,000.00 | 3,152,000.00 | 320,000.00 | 3,472,000.00 |
-| At price of previous year | 2,522,522.52 | 179,439.25 | 152,380.95 | 2,854,342.73 | 222,222.22 | 3,076,564.95 |
+|                                        | Equivalent Units | Material      | Labour        | VOH                 | Total Var Cost |              |
+| -------------------------------------- | ---------------- | ------------- | ------------- | ------------------- | -------------- | ------------ |
+|                                        | Completed Units  |               |               |                     |                |              |
+|                                        |                  |               |               |                     |                |              |
+|                                        | 12000+800-1500   |               |               |                     |                |              |
+|                                        |                  | 11,300.00     | 11,300.00     | 11,300.00           |                |              |
+|                                        | Opening WIP      | (400.00)      | (160.00)      | (160.00)            | (160.00)       |              |
+|                                        | Closing WIP      | 700.00        | 350.00        | 350.00              | 350.00         |              |
+|                                        | Total            |               |               |                     |                |              |
+|                                        | Equivalent       |               |               |                     |                |              |
+|                                        | Units            | 11,600.00     | 11,490.00     | 11,490.00           | 11,490.00      |              |
+|                                        | Total Cost in    |               |               |                     |                |              |
+|                                        | Rs.              | 81,200,000.00 | 13,788,000.00 | 11,490,000.00       | 2,980,000.00   |              |
+|                                        | Cost Per eqv     |               |               |                     |                |              |
+|                                        | unit             | 7,000.00      | 1,200.00      | 1,000.00            | 9,200.00       |              |
+|                                        |                  |               |               |                     |                |              |
+|                                        |                  |               |               |                     |                |              |
+|                                        |                  |               |               |                     |                |              |
+| Value of Opening Stock                 | Material         | Labour        | VOH           | Total Variable Cost | Fixed OH       | Total        |
+| Eqv Units                              |                  | 400.00        | 160.00        | 160.00              |                |              |
+|                                        |                  |               |               |                     |                |              |
+| Cost per Eqv Units- Current Year price | 7,000.00         | 1,200.00      | 1,000.00      | 9,200.00            | 2,000.00       | 11,200.00    |
+| At price of previous year              | 6,306.31         | 1,121.50      | 952.38        | 8,380.18            | 1,388.89       | 9,769.07     |
+| Value of OS current price              | 2,800,000.00     | 192,000.00    | 160,000.00    | 3,152,000.00        | 320,000.00     | 3,472,000.00 |
+| At price of previous year              | 2,522,522.52     | 179,439.25    | 152,380.95    | 2,854,342.73        | 222,222.22     | 3,076,564.95 |
 
 
 

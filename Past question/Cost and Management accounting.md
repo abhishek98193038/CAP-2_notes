@@ -294,6 +294,13 @@ dg-publish: true
 
 
 
+
+
+
+
+
+
+
 # process costing
 
 
@@ -574,7 +581,7 @@ dg-publish: true
 
 
 
-# marginal costing
+# Marginal costing
 
 
 
@@ -591,7 +598,7 @@ dg-publish: true
 
 
 
-
+![[21_june g2#Question no 1 (Cost and Management Accounting) ✓]]
 
 
 

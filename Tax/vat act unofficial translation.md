@@ -91,6 +91,8 @@ k2) "Electronic services" means following services for which information and tec
 	11. Consultancy, skill development and training services
 	12. Similar other services ^dx3fcl
 
+
+
 l) "Person" means any natural person, firm, company, association, institution partnership institution, co-operative, joint venture, trust or fund and this term also includes the government body, religious organization, charitable institution or other similar entity and their branch or sub-branch thereof which are involved in the taxable transaction with or without the objective of profit making, ^1v8amt
 
 m)  "Registered Person" means the person registered pursuant to Section 10, 10A, 10B and 10B1 to carry out the transaction.
@@ -209,6 +211,11 @@ u) "Prescribed" or "as prescribed" means prescribed or as prescribed in the Rule
 7. Rate of tax: 
 
 (1) The rate of tax to be levied under this Act shall be in single rate of thirteen percent.
+
+(1a) Notwithstanding anything mentioned in sub section (1), Government of Nepal can establish multiple rate not exceeding the rate mentioned in subsection (1) above and accordingly may prescribe taxable goods and services by publishing notice in Nepal Gazette 
+
+(1b) Notwithstanding anything mentioned in subsection (1) and (1a) , person providing ride sharing services by registering in platform operated by residential ride sharing operator and person providing electricity services to end users should assess and collect 5% tax on taxable value as per this Act and Rules under this Act.
+
 (2) Notwithstanding anything contained in Sub-section (1), in the transaction of goods and services as mentioned in [[vat act unofficial translation#6 Schedule-2|Schedule-2]], the tax rate shall be zero.
 
 
@@ -227,6 +234,9 @@ u) "Prescribed" or "as prescribed" means prescribed or as prescribed in the Rule
 - shall assess and collect tax on the taxable amount 
 - in accordance with this Act or Rules framed under this Act 
 - at the time of payment or acquisition of service, whichever occurs earlier.
+
+(2B) Ride sharing platform operator should assess and collect tax on taxable value as per this 
+Act and Rules under this Act at the point of transaction from person providing ride sharing services by registering in platform operated by residential ride sharing operator.
 
 (3) Building or apartment or shopping complex or other similar structure as prescribed by the Department worth more than Fifty lakh to be constructed for commercial purpose even if it is made to be constructed by a person who is not registered, it shall be deemed as if it is constructed from a registered person and the tax shall be accordingly deposited. If tax is not deposited as required, tax shall be assessed and recovered from the person having ownership of such structure.
 	-
@@ -313,7 +323,7 @@ Provided that, a small business other than tax payer transacting with Value Adde
 ## Registration of Non-resident providing electronic services
 
 10B1. (Book page 20) 
-1. Notwithstanding anything contained elsewhere in this act, [[vat act unofficial translation#^hg508z|Non-resident person]] providing [[vat act unofficial translation#^dx3fcl|electronic services]] or offline air transport services of and having taxable turnover exceeding 30 lakhs shall be registered in VAT
+1. Notwithstanding anything contained elsewhere in this act, [[vat act unofficial translation#^hg508z|Non-resident person]] providing [[vat act unofficial translation#^dx3fcl|electronic services]] or offline air transport services of and having taxable turnover exceeding 30 lakhs in last 12 month shall be registered in VAT
 2. Registration procedures of non-resident person engaged as per sub-section(1) shall be as determined by the department
 3. If the person registered under sub section (1) closes its business or the transaction, it shall cancel the registration through [[vat rule unofficial translation#Process of cancellation of registration|Prescribed Method]]
 ## Cancellation of Registration
@@ -425,15 +435,15 @@ Provided that, any person not specified pursuant to $\boldsymbol{\lambda}$ Sub-s
 
 14A. 'Electronic invoice: 
 
-(1) Taxpayer may issue electronic invoice upon obtaining prior approval of the Department.
+(1) Department by prescribing standards and procedures may make necessary arrangements regarding any person issuing invoice through digital medium.
 
-(2) Notwithstanding anything contained in Sub-section (1), Department may by publishing a notice, order taxpayers specified in the notice to compulsorily issue invoice through electronic medium and affiliate such electronic medium with Central Billing Monitoring System (CBMS) of Department.
+(2) Notwithstanding anything contained in Sub-section (1), Department may by publishing a notice, order taxpayers specified in the notice to compulsorily issue invoice through electronic medium and affiliate such electronic medium with Central Billing Monitoring System (CBMS) of Department or use billing system provided by the Department to issue digital invoice
 
-(3) Department shall prepare and implement procedure regarding security and credibility of the software or device used to issue invoice through electronic medium. Such procedure shall be followed by concerned producers, distributors and users.
+(3) Department shall prepare and implement procedure regarding security and credibility of the software or device used to issue invoice through electronic medium. 
 
 > [!note] summary
 > 1. Voluntary registration
-> 2. Compulsory registration : if order by department(i.e. if turnover > 10 cr) → must connect with DBMS
+> 2. Compulsory registration : if order by department(i.e. if turnover > 10 cr) → must connect with DBMS `or` use billing system provided by department
 > 3. Department is responsible for security and credibility
 
 
@@ -534,7 +544,7 @@ Provided that, any person not specified pursuant to $\boldsymbol{\lambda}$ Sub-s
 
 (1) Every taxpayer shall, upon making self-assessment of the tax payable by him/her in every month, file the tax return, as prescribed, to the Tax Officer  or by registered post or electronic medium within Twenty-Five days of completion of that month. Such returns shall be filed whether or not a taxable transaction was carried out in that month or not.
 
-(1a) Notwithstanding anything contained in Subsection (1), a taxpayer from a district where there is no Inland Revenue Office or Taxpayers' Service Office may file the tax returns and pay the amount of tax to be paid and filed by him/her with the District Treasury Controller Office (DTCO) of the concerned district within the Fifteenth day of the month in which he/she has to file the tax returns and pay the tax. The District Treasury Controller Office (DTCO) shall forward the returns of tax and payment of tax so received to the concerned Inland Revenue Office or Taxpayers' Service Office within Seven days.
+(1a) Notwithstanding anything mentioned in sub section (1), taxpayer from those districts where there are no inland revenue offices may submit tax amount and tax returns to related local level or Office of Financial Comptroller General of the District within 15 days of the month of submission. Such tax return or tax payment details should be submitted to related Inland Revenue Office by related local level or Office of Financial Comptroller General
 
 (1b) The procedures to file and forward returns as per Sub-section (1) and (1a) shall be as determined by the Department.
 
@@ -542,7 +552,7 @@ Provided that, any person not specified pursuant to $\boldsymbol{\lambda}$ Sub-s
 
 (3) If the taxpayer , who is required to submit the tax return according to this section fails to submit it within 4 months from the date of submission of the tax return, the tax officer may stop the import or export of taxpayer.
 
-
+(4) Department may amend those tax returns submitted within deadline by tax payer if required within 7 days from the submission date of the return by following prescribed procedures.
 ## Tax payment
 
 19. Tax payment: 
@@ -762,9 +772,9 @@ Notwithstanding anything mentioned in section 24 of the act
 
 (1a) Notwithstanding anything contained in Sub-section (1), the tax paid by a diplomatic body or a diplomat ==shall not be refunded if== the amount of tax for a single purchase of taxable goods or services is ==less than ten thousand rupees.==
 
-(1b) If a consumer makes ==payment== of the goods or services purchased ==via electronic medium== in accordance to the prevailing laws, then the ==ten percent of the tax amount paid== shall be ==refunded== as cash incentive immediately as per the procedure prescribed by the Department.
+(1b) If a consumer makes ==payment== of the goods or services purchased ==via electronic medium== in accordance to the prevailing laws, then the ==ten percent of the tax amount paid== shall be ==rebated== as cash incentive immediately as per the procedure prescribed by the Department.
 
-(1b) If the amount deposited as per subsection (6) of [[vat act unofficial translation#Application may be made for administrative review|Section 31A]] after the final decision of the court or the competent authority on the revised tax assessment is found to be in excess, such excess amount shall be refunded to the taxpayer upon request.
+(1c) If the amount deposited as per subsection (6) of [[vat act unofficial translation#Application may be made for administrative review|Section 31A]] after the final decision of the court or the competent authority on the revised tax assessment is found to be in excess, such excess amount shall be refunded to the taxpayer upon request.
 
 (2) While refunding the tax amount pursuant to Clause (d) of Sub-section (1), refund shall be made only to that person who bears real burden of the tax.
 
@@ -793,14 +803,15 @@ If a foreign tourist visiting Nepal and returning via airways purchases and take
 
 25C1. **Refund of tax paid in excess under a contract:** 
 
-(1) While making the payment by the public entity as per the prevailing laws concerning public procurement or by the entity having full or partial ownership of Nepal Government to the concerned contractor or supplier against the goods or services or goods and services supplied under a contract agreement or contract, the amount deposited as tax can be adjusted with the tax amount payable by such contractor or supplier.
+~~(1) While making the payment by the public entity as per the prevailing laws concerning public procurement or by the entity having full or partial ownership of Nepal Government to the concerned contractor or supplier against the goods or services or goods and services supplied under a contract agreement or contract, the amount deposited as tax can be adjusted with the tax amount payable by such contractor or supplier.
 
-(2) If the amount deposited remains excess upon regular adjustment in four months, as per sub section (1), the contractor or the supplier, if wishes to get refund of such excess amount deposited, may file an application to the Tax Officer.
+~~(2) If the amount deposited remains excess upon regular adjustment in four months, as per sub section (1), the contractor or the supplier, if wishes to get refund of such excess amount deposited, may file an application to the Tax Officer.~~
 
-(3) Tax officer shall refund such claimed amount within 60 days if anybody file application as per subsection (2), whether the claim is found valid.
+~~(3) Tax officer shall refund such claimed amount within 60 days if anybody file application as per subsection (2), whether the claim is found valid.~~
 
-(4) Contractor or supplier could not adjust such tax amount in other months after they have filed refund application as per sub section (2).
+~~(4) Contractor or supplier could not adjust such tax amount in other months after they have filed refund application as per sub section (2).~~
 
+`Deleted by budget 2083/84`
 
 
 ## Refund of tax paid during purchase by pharmaceutical industry
@@ -861,7 +872,7 @@ If a foreign tourist visiting Nepal and returning via airways purchases and take
 	(f) In the event of breach of Sub-section (2) of Section 16, a fine up to Five Thousand Rupees.
 	(g) In the event of breach of Sub-sections (3) or (4) of Section 16, a fine of Ten Thousand Rupees.
 	(g1) 'In the event of breach of Sub-section (3A) of Section 16, a fine of One Thousand Rupees for each breach.
-	(g2) 'If a taxpayer issuing electronic invoice upon approval or without approval is found using software for erasing or amending the data, then a fine of Five Lakh Rupees.
+	(g2) 'If taxpayer issuing digital invoice as per sub section (1) and (2) of Section 14 ka is found to be using software to delete or correct data, Rs 5 lakh fine shall be imposed and if other provisions of same sub sections are not complied Rs 1 lakh fine shall be imposed
 	(g3) 'In the event of failure to comply with the procedure issued by the Department pursuant to Section 14A by a person developing, installing or operating software or equipment for the issuance of electronic invoice, a fine of Five Lakh Rupees.
 	(h) In the event of breach of provision of Section 18, a fine at the rate of 0.05 percent of the tax payable per day or One Thousand Rupees per tax period, whichever is higher.
 	(i) In the event of obstructing to carry out the functions under Section 23, a fine of Five Thousand Rupees for each time of obstruction.
@@ -869,7 +880,8 @@ If a foreign tourist visiting Nepal and returning via airways purchases and take
 	-
 	Provided that, if the Office thinks necessary, it may purchase or cause to purchase the goods that are under invoiced, as prescribed.
 	(j1) A fine of one hundred thousand rupees for each instance of conducting transactions without registering branch or warehouse.
-	(k) In the event of breach of this Act or Rules framed under this Act, a fine of One Thousand Rupees for each breach.
+	(k) In the event of breach of this Act or Rules framed under this Act, a fine of Ten Thousand Rupees for each breach.
+	(m) Rs 50,000 each time for violation of Directives to be issued by Department related to regulation of internal transfer of commercial purpose goods
 
 (1A) ' In the event of reducing the tax liability without compliance with this Act or the Rules framed under this Act, the Tax Officer may impose a fine up to twenty five percent of the amount of tax payable, based on the grounds prescribed by the Department.
 
@@ -1184,6 +1196,7 @@ Explanation: For purposes of this Section, "concerned officer" means the manager
 
 (3) Until the circular issued pursuant to Sub-section (1) is revoked, the Department shall be required to act pursuant to such circular.
 
+(4) Interpretation as per sub section (1) except if interpreted by court in another way shall be considered final. 
 
 
 ## Security to be deposited
@@ -1382,5 +1395,7 @@ Group-13 : Gambling, casino and lottery
 
 ![[VAT schedule 2 (1).png]]
 
-![[VAT schedule 2 (2).png]]
+![[VAT schedule 2 (2).png]] 
+
+
 
